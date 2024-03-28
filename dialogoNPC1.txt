@@ -2,4 +2,4 @@
 -HOLA
 -YA COMISTE?
 
- ["dialogoNPC-SI"]
+[ "dialogoNPC-SI" , "dialogoNPC-NO" ]
