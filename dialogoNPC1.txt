@@ -1,3 +1,5 @@
 -HOLA
 -HOLA
 -YA COMISTE?
+
+["dialogoNPC-NO"]
